@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639669326 source:d:\code blocks  udemy ders notlarý\c\döngüler do while for\while Örnekler\Örnek 3 while\2 sayý arasýndaki sayýlarý toplayan program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
